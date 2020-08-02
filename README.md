@@ -1,6 +1,16 @@
-# buscador_gifs
+# Buscador de Gifs
 
-Buscador de Gifs
+Utilizando a api do site https://developers.giphy.com/explorer
+
+
+
+Fiz um aplicativo para buscar e compartilhar gifs.
+
+Quando o aplicativo carrega ele busca os 20 primeiros gifs que estão no top trending do site.
+
+Existe uma barra de busca que faz a pesquisa por palavra chave no site.
+
+
 
 ## Getting Started
 
